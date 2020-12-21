@@ -8,6 +8,7 @@ Kaggle Link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-chal
 
 Dataset Link: https://www.semanticscholar.org/cord19/download
 
+> NOTE: Outputs/data.pickle is compressed in data.zip because of GitHub's limit for normal files.
 
 ## Steps
 
